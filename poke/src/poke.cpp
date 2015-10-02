@@ -81,5 +81,5 @@ int main(void){
     cout<<endl<<"a="<<a2<<endl<<"b="<<b2<<endl<<"c="<<c2<<endl;
     SaveFile<<"\n"<<"a="<<a2/n<<"\n"<<"b="<<b2/n<<"\n"<<"c="<<c2/n<<"\n";
     cout<<"a="<<a2/n<<endl<<"b="<<b2/n<<endl<<"c="<<c2/n<<endl;
-	SaveFile.close();
+    return 0;
 }
